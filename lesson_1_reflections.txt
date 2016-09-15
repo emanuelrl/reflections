@@ -1,0 +1,11 @@
+Este ficheiro serve como notas de interesse.
+
+commit: permite guardar uma versão com informações sobre: autor, hora e alguns comentarios.
+git diff: permite ver as diferenças entre 2 commits
+repository: é como uma directoria ou pasta onde todos os ficheiros que estão dentro são tratados como uma unidade coesa, ou seja, o comit é referente
+a todos os ficheiros do repositorio fazendo uma nova versão dos mesmos.
+
+git diff: Compare two commits, printing each line that is present in one commit but not on the other
+git clone: Make a copy of an entire Git Repository, including the history, onto your own computer. However changes made to the cloned repository will not affect the original one
+git checkout: Temporarily reset all files in a repository to their state at the time of a specific commit
+git log: Show the commits mafe in a repository, starting with the most recent
